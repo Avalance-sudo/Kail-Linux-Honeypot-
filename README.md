@@ -8,4 +8,4 @@ Using Kali Linux to build a honeypot—a decoy system or network designed to att
 -Parrot OS
 -Pentbox Tools
 
-HoneyPot Setup 
+#HoneyPot Setup 
