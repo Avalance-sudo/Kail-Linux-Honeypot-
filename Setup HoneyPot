@@ -3,19 +3,25 @@ Setup Process:
 
 1.Install Ruby (if not already installed) 
 Pentbox is written in Ruby, so we need Ruby to run it.
-'''sudo apt update'''
-'''sudo apt install ruby -y'''
+
+sudo apt update
+
+sudo apt install ruby -y
 
 2.Clone the Pentbox Repository
-'''git clone https://github.com/technicaldada/pentbox.git'''
+
+git clone https://github.com/technicaldada/pentbox.git
 
 3. Change into the Pentbox Directory 
-''' cd pentbox'''
+
+cd pentbox
 
 4. Extract Files (if useing the .tar.gz version)
 If you download Pentbox as a compressed file:
-'''tar -zxvf pentbox.tar.gz
-cd pentbox-1.8'''
+
+tar -zxvf pentbox.tar.gz
+
+cd pentbox-1.8
 
 5. Run Pentbox 
 '''./pentbox.rb'''
