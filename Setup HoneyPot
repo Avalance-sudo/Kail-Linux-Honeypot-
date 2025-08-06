@@ -1,4 +1,5 @@
-# Setup Process:
+
+Setup Process:
 
 1.Install Ruby (if not already installed) 
 Pentbox is written in Ruby, so we need Ruby to run it.
@@ -19,7 +20,7 @@ cd pentbox-1.8'''
 5. Run Pentbox 
 '''./pentbox.rb'''
 
-# Setting up the Honeypot
+Setting up the Honeypot
 1. Seclect 2 Network tools section from the Pentbox mennu
 2. Then chose 3 Honeypot 
 3.Follow the prompts:
